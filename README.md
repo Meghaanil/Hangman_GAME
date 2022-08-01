@@ -5,9 +5,13 @@ Here I have created "Guess The City"_Edition of the same...you'll be having to g
  - Python3
 ## How It Works??
 <img src="img1.png">
-- Every time you run the game a new random word is chosen to guess.
-- You have only 6 chances to make wrong guesses.
-<img src="img2.png"><img src="img3.png"><img src="img4.png"><img src="img5.png"><img src="img6.png"><img src="img7.png">
+- Every time you run the game a new random word is chosen to guess.You have only 6 chances to make wrong guesses.
+<img src="img2.png">
+<img src="img3.png">
+<img src="img4.png">
+<img src="img5.png">
+<img src="img6.png">
+<img src="img7.png">
 ## How to Configure:
 
 1. Installing pip [Python Package Manager]
