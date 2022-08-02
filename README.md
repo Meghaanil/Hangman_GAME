@@ -29,7 +29,7 @@ $ sudo apt-get install python3-pip
 ```shell
  $ git clone https://github.com/Meghaanil/Hangman_GAME.git
 ```
-**4.** Move to the directory
+**3.** Move to the directory
 
 ```
 $ cd Hangman_GAME/
