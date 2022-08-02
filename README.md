@@ -12,14 +12,15 @@ Here I have created "Guess The City"_Edition of the same...you'll be having to g
 <img src="img5.png">
 <img src="img6.png">
 <img src="img7.png">
-## How to Configure:
 
+
+
+### How to Configure:
 1. Installing pip [Python Package Manager]
 
--  $ sudo apt-get install python3-pip
+- $ sudo apt-get install python3-pip
 
-2.Clone this repository to your local drive
+ 2. Clone this repository to your local drive
 
 - $ git clone https://github.com/Meghaanil/Hangman_GAME.git
-
 
